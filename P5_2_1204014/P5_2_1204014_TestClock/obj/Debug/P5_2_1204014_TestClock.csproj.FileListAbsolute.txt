@@ -1,0 +1,14 @@
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014_TestClock\bin\Debug\P5_2_1204014_TestClock.exe.config
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014_TestClock\bin\Debug\P5_2_1204014_TestClock.exe
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014_TestClock\bin\Debug\P5_2_1204014_TestClock.pdb
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014_TestClock\bin\Debug\P5_2_1204014.dll
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014_TestClock\bin\Debug\P5_2_1204014.pdb
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014_TestClock\obj\Debug\P5_2_1204014_TestClock.csprojResolveAssemblyReference.cache
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014_TestClock\obj\Debug\P5_2_1204014_TestClock.Form1.resources
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014_TestClock\obj\Debug\P5_2_1204014_TestClock.Properties.Resources.resources
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014_TestClock\obj\Debug\P5_2_1204014_TestClock.csproj.GenerateResource.Cache
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014_TestClock\obj\Debug\P5_2_1204014_TestClock.exe
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014_TestClock\obj\Debug\P5_2_1204014_TestClock.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1204014\P5_2_1204014_TestClock\bin\Debug\P5_2_1204014_TestClock.exe.config
+C:\Users\HP\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1204014\P5_2_1204014_TestClock\obj\Debug\P5_2_1204014_TestClock.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1204014\P5_2_1204014_TestClock\obj\Debug\P5_2_1204014_TestClock.pdb

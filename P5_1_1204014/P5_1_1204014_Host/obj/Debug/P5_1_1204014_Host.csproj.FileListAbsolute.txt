@@ -1,0 +1,11 @@
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_1_1204014\P5_1_1204014_Host\bin\Debug\P5_1_1204014_Host.exe.config
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_1_1204014\P5_1_1204014_Host\bin\Debug\P5_1_1204014_Host.exe
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_1_1204014\P5_1_1204014_Host\bin\Debug\P5_1_1204014_Host.pdb
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_1_1204014\P5_1_1204014_Host\obj\Debug\P5_1_1204014_Host.csprojResolveAssemblyReference.cache
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_1_1204014\P5_1_1204014_Host\obj\Debug\P5_1_1204014_Host.Form1.resources
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_1_1204014\P5_1_1204014_Host\obj\Debug\P5_1_1204014_Host.Properties.Resources.resources
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_1_1204014\P5_1_1204014_Host\obj\Debug\P5_1_1204014_Host.csproj.GenerateResource.Cache
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_1_1204014\P5_1_1204014_Host\obj\Debug\P5_1_1204014_Host.exe
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_1_1204014\P5_1_1204014_Host\obj\Debug\P5_1_1204014_Host.pdb
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_1_1204014\P5_1_1204014_Host\bin\Debug\P5_1_1204014.dll
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_1_1204014\P5_1_1204014_Host\bin\Debug\P5_1_1204014.pdb

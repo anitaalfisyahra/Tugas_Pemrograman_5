@@ -1,0 +1,11 @@
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_3_1204014\P5_3_1204014_Formulir\obj\Debug\P5_3_1204014_Formulir.csprojResolveAssemblyReference.cache
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_3_1204014\P5_3_1204014_Formulir\obj\Debug\P5_3_1204014_Formulir.Form1.resources
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_3_1204014\P5_3_1204014_Formulir\obj\Debug\P5_3_1204014_Formulir.Properties.Resources.resources
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_3_1204014\P5_3_1204014_Formulir\obj\Debug\P5_3_1204014_Formulir.csproj.GenerateResource.Cache
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_3_1204014\P5_3_1204014_Formulir\bin\Debug\P5_3_1204014_Formulir.exe.config
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_3_1204014\P5_3_1204014_Formulir\bin\Debug\P5_3_1204014_Formulir.exe
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_3_1204014\P5_3_1204014_Formulir\bin\Debug\P5_3_1204014_Formulir.pdb
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_3_1204014\P5_3_1204014_Formulir\obj\Debug\P5_3_1204014_Formulir.exe
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_3_1204014\P5_3_1204014_Formulir\obj\Debug\P5_3_1204014_Formulir.pdb
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_3_1204014\P5_3_1204014_Formulir\bin\Debug\P5_3_1204014.dll
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P5_3_1204014\P5_3_1204014_Formulir\bin\Debug\P5_3_1204014.pdb

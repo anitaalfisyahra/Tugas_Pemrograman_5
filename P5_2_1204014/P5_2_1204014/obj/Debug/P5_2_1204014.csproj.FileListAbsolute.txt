@@ -1,0 +1,7 @@
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014\bin\Debug\P5_2_1204014.dll
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014\bin\Debug\P5_2_1204014.pdb
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014\obj\Debug\P5_2_1204014.csprojResolveAssemblyReference.cache
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014\obj\Debug\P5_2_1204014.DigitalCock.resources
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014\obj\Debug\P5_2_1204014.csproj.GenerateResource.Cache
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014\obj\Debug\P5_2_1204014.dll
+c:\users\acer 756\documents\visual studio 2015\Projects\P5_2_1204014\P5_2_1204014\obj\Debug\P5_2_1204014.pdb
